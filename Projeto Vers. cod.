@@ -7,7 +7,13 @@
 </head>
 <body>
     <h1>Projeto Github</h1>
-    
+
     <p>Aluno do curso técnico de Desinvolvimento de Sistemas, terceiro ano.</p>
+    <h2>Minhas habilidades</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Github</li>
+    </ul>
 </body>
 </html>
